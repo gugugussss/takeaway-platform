@@ -14,7 +14,7 @@
 - 构建工具：npm/yarn + Webpack/Vite
 
 ### 后端 (elma_admin)
-- 核心框架：Spring Boot
+- 核心框架：Java Servlet
 - Web框架：Spring MVC
 - 权限控制：Spring Security
 - 数据持久化：MyBatis/MyBatis-Plus
